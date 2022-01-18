@@ -1,0 +1,5 @@
+新手引导$UserGuid
+实验指南$Guid
+实验原理$Method
+实验报告$Report
+理论考核$Exam
